@@ -1,0 +1,1 @@
+npm create vite@latest = iniciar o react com o vite ele deixa tudo pronto e mais simples
