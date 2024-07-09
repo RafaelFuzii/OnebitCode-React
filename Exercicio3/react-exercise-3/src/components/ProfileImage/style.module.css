@@ -1,0 +1,7 @@
+.images{
+    border-radius: 100%;
+    box-shadow: 0 8px 16px -8px rgba(0, 0, 0, 0.5);
+    margin: 2rem 0 1rem;
+    width: 8rem;
+    height: 8rem;
+}

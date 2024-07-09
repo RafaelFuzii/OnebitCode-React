@@ -1,0 +1,19 @@
+.buttons{
+   border: none;
+   background: linear-gradient(234deg, rgba(14,162,238,1) 12%, rgba(45,62,244,1) 91%);
+   padding: 14px 40px;
+   border-radius: 3rem;
+   transition: box-shadow 1s, color 1s;
+}
+
+.links{
+    text-decoration: none;
+    color: white !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buttons:hover{
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    bottom: .25rem;
+}
