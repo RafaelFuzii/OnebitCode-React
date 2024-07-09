@@ -10,9 +10,6 @@ function App() {
         <ProfileCard 
         profilePhoto={profilePhotoImage} 
         name="John Doe" 
-        about="Full-stack Javascript developer at Acme Inc." 
-        phone="+5511987654321" 
-        email="john.doe@email.com"
         />
       </div>
     </>
