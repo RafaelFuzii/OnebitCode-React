@@ -1,0 +1,42 @@
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.buttons{
+    background-color: #1a1a1a;
+    border: none;
+    color: #fff;
+    padding: .8rem 1.5rem;
+    font-size: 1rem;
+    border-radius: .6rem;
+}
+
+.buttons:hover{
+    cursor: pointer;
+    border: 1px solid rgba(34, 125, 243, 0.959);
+}
+
+.containerPassword{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    color: #fff;
+    font-size: large;
+}
+
+input{
+    background-color: #1a1a1a;
+    border: none;
+    color: #fff;
+    padding: .8rem 1.5rem;
+    font-size: 1rem;
+    border-radius: .6rem;
+    margin-bottom: 2rem;
+}
+
+label{
+    color: #fff;
+    font-size: 2rem;
+}
